@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    tools:context="ekalschoolapp.pooja.com.ekalschoolapp.RegisterActivity">
+
+    <LinearLayout
+        android:layout_centerVertical="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="User Registration"
+            android:id="@+id/textView"
+            android:layout_gravity="center_horizontal" />
+
+        <LinearLayout
+            android:layout_width="150dp"
+            android:layout_height="100dp"
+            android:orientation="vertical"
+            android:layout_gravity="center">
+
+         <!--   <ImageButton
+                android:id="@+id/choose_user_profile_photo1"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="10dp"
+                android:background="#33b1b1"
+                android:elevation="5dp"
+                android:padding="20dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/profile_icon"
+                android:gravity="center"
+                android:layout_marginLeft="15dp"/>  -->
+
+            <ImageView
+                android:id="@+id/ivprofile"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="10dp"
+                android:background="#33b1b1"
+                android:elevation="5dp"
+                android:padding="20dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/profile_icon"
+                android:gravity="center"
+                android:layout_marginLeft="15dp"  />
+
+    <!--        <Button
+                android:layout_width="80dp"
+                android:layout_height="30dp"
+                android:text="Upload "
+                android:textColor="#000"
+                android:textSize="8dp"
+                android:id="@+id/btn_uploaddp2"
+                android:gravity="center_horizontal"
+                android:layout_marginLeft="15dp" />   -->
+
+
+
+        </LinearLayout>
+
+        <EditText
+            android:id="@+id/editTextUsername"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:hint="Enter Username"
+            android:inputType="textEmailAddress" />
+
+        <EditText
+            android:id="@+id/editTextEmail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:hint="Enter Email"
+            android:inputType="textEmailAddress" />
+
+        <EditText
+            android:id="@+id/editTextPassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:hint="Enter Password"
+            android:inputType="textVisiblePassword"
+            />
+
+
+        <Button
+            android:id="@+id/btn_Register"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Register" />
+
+    </LinearLayout>
+
+</ScrollView>

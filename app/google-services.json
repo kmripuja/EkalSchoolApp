@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "1002411756841",
+    "firebase_url": "https://ekalschoolapp.firebaseio.com",
+    "project_id": "ekalschoolapp",
+    "storage_bucket": "ekalschoolapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002411756841:android:ea3662955f14d1ae",
+        "android_client_info": {
+          "package_name": "ekalschoolapp.pooja.com.ekalschoolapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002411756841-7sfuti1visubvrvrtf489jv0fdgs4hqt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ekalschoolapp.pooja.com.ekalschoolapp",
+            "certificate_hash": "B905A86693B104E0AA29313F9D90F48BB78CE933"
+          }
+        },
+        {
+          "client_id": "1002411756841-e4jtm3g8u217fqsjqdesvrlruaq1b11o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl-vDIXpOKbrKOC5AULgzJ-sOL9tkaVfA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002411756841-e4jtm3g8u217fqsjqdesvrlruaq1b11o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002411756841:android:f5193849b34cc5d8",
+        "android_client_info": {
+          "package_name": "firebasetesting.pooja.com.firebasetesting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002411756841-e4jtm3g8u217fqsjqdesvrlruaq1b11o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl-vDIXpOKbrKOC5AULgzJ-sOL9tkaVfA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

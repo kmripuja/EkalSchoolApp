@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_adminpage"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    tools:context="ekalschoolapp.pooja.com.ekalschoolapp.AdminpageActivity">
+
+    <Button
+        android:id="@+id/btn_uploadfile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Upload Files" />
+
+    <Button
+        android:id="@+id/btn_checkdetails"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Check Details" />
+
+
+    <Button
+        android:id="@+id/btn_steacherdetail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Search Teacher" />
+
+    <Button
+        android:id="@+id/btn_sendnotification"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Send Notification" />
+
+    <Button
+        android:id="@+id/btn_slogout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Logout" />
+
+</LinearLayout>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ekal School App</string>
+    <string name="title_activity_student">StudentActivity</string>
+    <string name="title_activity_attendance">AttendanceActivity</string>
+
+    <string name="name" />
+    <string name="show_details">Show Details</string>
+
+
+</resources>

@@ -1,0 +1,35 @@
+{
+  "Schoolname" : {
+    "Nanakmatta" : {
+      "Class" : {
+        "I" : {
+          "Rollno" : [ null, {
+            "marks" : 0,
+            "name" : "ram"
+          }, {
+            "marks" : 0,
+            "name" : "shyam"
+          } ]
+        },
+        "II" : {
+          "Rollno" : [ null, {
+            "marks" : 0,
+            "name" : "seeta"
+          }, {
+            "marks" : 0,
+            "name" : "geeta"
+          } ]
+        },
+        "III" : {
+          "Rollno" : [ null, {
+            "marks" : 0,
+            "name" : "mohan"
+          }, {
+            "marks" : 0,
+            "name" : "sohan"
+          } ]
+        }
+      }
+    }
+  }
+}

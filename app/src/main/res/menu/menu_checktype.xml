@@ -1,0 +1,17 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Bank_App">
+
+    <item android:id="@+id/mcheckattend"
+        android:title="Check Attendance Details"
+        android:orderInCategory="100" />
+
+    <item android:id="@+id/mcheckresult"
+          android:title="Check Result Details"
+          android:orderInCategory="100"
+          app:showAsAction="never" />
+
+
+</menu>

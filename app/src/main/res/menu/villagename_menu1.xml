@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:androclass="http://schemas.android.com/apk/res/android"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".AttendanceActivity">
+
+    <item
+        android:id="@+id/vfour"
+        android:title="Nagta"/>
+
+    <item
+        android:id="@+id/vone"
+        android:title="Chand pur"/>
+
+    <item
+        android:id="@+id/vtwo"
+        android:title="Gandhi Nagar"/>
+
+    <item
+        android:id="@+id/vthree"
+        android:title="Kishan Pur"/>
+
+
+<!--
+    <item
+        android:id="@+id/vfive"
+        android:title=" Jhankat"/>
+
+    <item
+        android:id="@+id/vsix"
+        android:title=" Gidhaur"/>
+
+    <item
+        android:id="@+id/vseven"
+        android:title="Navin Nagar "/>
+
+    <item
+        android:id="@+id/veight"
+        android:title="Diya No 2 "/>
+
+    <item
+        android:id="@+id/vnine"
+        android:title=" Diya No 3"/>
+
+    <item
+        android:id="@+id/vtenth"
+        android:title="Gangee"/>
+
+    <item
+        android:id="@+id/veleven"
+        android:title="Uidhan"/>
+
+    <item
+        android:id="@+id/vtwelve"
+        android:title="Sabaura"/>
+    <item
+        android:id="@+id/vthirteen"
+        android:title="Ratan pur"/>
+
+    <item
+        android:id="@+id/vfourteen"
+        android:title="Bhada Bhudiya"/>
+
+    <item
+        android:id="@+id/vfifteen"
+        android:title="Phoolaiya"/>
+
+    <item
+        android:id="@+id/vsixteen"
+        android:title="Banusa 1"/>
+
+    <item
+        android:id="@+id/vseventeen"
+        android:title="Gurkhudiya Tharu"/>
+
+    <item
+        android:id="@+id/veigthteen"
+        android:title="Devari"/>
+
+    <item
+        android:id="@+id/vnineteen"
+        android:title="Sidhda"/>
+
+    <item
+        android:id="@+id/vtwenty"
+        android:title="Sunkhadi Kala"/>
+
+    <item
+        android:id="@+id/vtwentyone"
+        android:title="Sadiya"/>
+
+    <item
+        android:id="@+id/vtwentytwo"
+        android:title="Nabdiya"/>
+
+    <item
+        android:id="@+id/vtwentythree"
+        android:title="Banusa Pachpeda"/>
+
+    <item
+        android:id="@+id/vtwentyfour"
+        android:title="Banusa 2"/>
+
+    <item
+        android:id="@+id/vtwentyfive"
+        android:title="Guskhudia"/>
+
+    <item
+        android:id="@+id/vtwentysix"
+        android:title="Milak Mafi"/>
+
+    <item
+        android:id="@+id/vtwentyseven"
+        android:title="Milak Najir"/>
+    <item
+        android:id="@+id/vtwentyeigth"
+        android:title="Tapeda"/>
+
+    <item
+        android:id="@+id/vtwentynine"
+        android:title="Mohamtpur Bhudiya"/>
+
+    <item
+        android:id="@+id/vthirtee"
+        android:title="Diya Pukha"/>
+        -->
+
+</menu>

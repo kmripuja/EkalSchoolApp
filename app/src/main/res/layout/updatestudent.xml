@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/et_updatestudname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Name" />
+
+    <EditText
+        android:id="@+id/et_updatestudrollno"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Rollno" />
+
+    <EditText
+        android:id="@+id/et_updatestudmarks"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Marks" />
+
+    <EditText
+        android:id="@+id/et_updatestudattendance"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Attendance" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_updatestud"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Update" />
+
+        <Button
+            android:id="@+id/btn_deletestud"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Delete" />
+
+    </LinearLayout>
+
+</LinearLayout>
